@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\ADMIN\source\repos\Project92\main.c(211,12): warning C4013: 'time'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  Project92.vcxproj -> C:\Users\ADMIN\source\repos\Project92\x64\Debug\Project92.exe
